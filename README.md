@@ -32,7 +32,13 @@
 
 - 如果在研究中使用本仓库，请引用我们的论文：
 
-[Guo Y, Liang L, Liang W. Exploring of Diverse Plant Communities and Adaptation to Drought Conditions Based on Advanced Logistics Model with Variable Growth. Stud Health Technol Inform. 2023 Nov 23;308:137-145. doi: 10.3233/SHTI230834. PMID: 38007735.”]([Exploring of Diverse Plant Communities and Adaptation to Drought Conditions Based on Advanced Logistics Model with Variable Growth - PubMed](https://pubmed.ncbi.nlm.nih.gov/38007735/))
+引用格式：
+
+Guo Y, Liang L, Liang W. Exploring of Diverse Plant Communities and Adaptation to Drought Conditions Based on Advanced Logistics Model with Variable Growth. Stud Health Technol Inform. 2023 Nov 23;308:137-145. doi: 10.3233/SHTI230834. PMID: 38007735.”
+
+原文链接：
+
+([Exploring of Diverse Plant Communities and Adaptation to Drought Conditions Based on Advanced Logistics Model with Variable Growth - PubMed](https://pubmed.ncbi.nlm.nih.gov/38007735/))
 
 #### ⚖️ 版权和引用
 
