@@ -38,7 +38,7 @@ Guo Y, Liang L, Liang W. Exploring of Diverse Plant Communities and Adaptation t
 Original link:
 [Exploring of Diverse Plant Communities and Adaptation to Drought Conditions Based on Advanced Logistics Model with Variable Growth - PubMed](https://pubmed.ncbi.nlm.nih.gov/38007735/)
 
-#### ⚖️ Copyright and Citations
+## ⚖️ Copyright
 
 - This project is open source and aims to provide resources for the academic and research community.
 - If you use this repository in research, please cite our paper.
